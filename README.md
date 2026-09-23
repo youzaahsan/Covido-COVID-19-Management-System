@@ -1,4 +1,3 @@
-﻿# Covido-COVID-19-Management-System
 # Covido — COVID-19 Test, Vaccine & Hospital Management System
 
 
