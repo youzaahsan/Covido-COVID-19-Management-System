@@ -710,7 +710,7 @@ In its current state, this is best described as a **partially functional prototy
 # 35. FINAL PROJECT INFORMATION
 
 ```
-PROJECT NAME:      Covido (covid_webite)
+PROJECT NAME:      Covido (covid_website)
 PROJECT TYPE:      Multi-role Web Application
 CATEGORY:          Healthcare / COVID-19 Test & Vaccination Management System
 FRONTEND:          HTML, CSS, Bootstrap, JavaScript, jQuery, PHP (server-rendered)
